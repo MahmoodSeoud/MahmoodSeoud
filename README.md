@@ -18,17 +18,23 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a 22-year-old computer science student at KU at 5<sup>th</sup>, with a keen interest in technology, sports (especially gym workouts), and finance. While pursuing my studies, I developed a fascination for machine learning and AI. I'm also contemplating becoming a part-time firefighter or personal trainer in the future, as I'm torn between these two passions. Currently, I'm employed at PeopleNet, a small IT company based in Copenhagen.
+I'm a 23-year-old computer science student at KU at 6<sup>th</sup>, with a keen interest in technology, sports (especially gym workouts), and finance. While pursuing my studies, I developed a fascination for machine learning and AI. I'm also contemplating becoming a part-time firefighter or personal trainer in the future, as I'm torn between these two passions. Currently, I'm employed at PeopleNet, a small IT company based in Copenhagen.
 
 ## What I'm Working On
 
-Currently, I'm engrossed in a fascinating project: a handwritten digit recognizer. For this project, I utilize TensorFlow to train my machine learning model, numpy for efficient data storage in NumPy arrays, and gradio to create an interactive visual interface. The implementation is done in Python, leveraging its powerful ecosystem for machine learning and AI.
+My current focus lies in the culmination of my bachelor thesis, where I delve into the creation of an innovative Bluetooth mesh grid network with a particular emphasis on designing an adaptive network protocol. The aim is to facilitate the coordination of states across the network, accommodating the dynamic nature of nodes joining and leaving at will.
 
-Additionally, my friend [Nidocq](https://github.com/Nidocq) and I collaborated on an online platform called [ABD_DIS-Projekt](https://github.com/Nidocq/ABD_DIS-Projekt). It's a marketplace where users can sell their used items. We employed technologies such as React, TypeScript, and SQL for database management.
+Recently, I've had the pleasure of completing a project close to my heart: SysMentor, a budding startup aimed at revolutionizing the learning experience for Computer Systems students. Our vision? To cultivate a platform brimming with interactive exercises and visually captivating diagrams, designed to make the journey of learning both delightful and immersive.
+
+Teaming up with my friend, [Nidocq](https://github.com/Nidocq), we've poured our passion into crafting two engaging exercises: [Cache-hit-miss](https://github.com/MahmoodSeoud/cache-hit-miss) and [VMAT](https://github.com/MahmoodSeoud/VMAT). These interactive modules serve as just a glimpse of the innovative learning environment we're striving to create.
+
+Curious to see more? You can catch a glimpse of our startup's essence on our landing page [here](https://abdsecondhand.site/LANDING/out/), where every click is an invitation to explore the future of CompSys education.
+
+But that's not all! Alongside Nidocq, I've embarked on another exciting venture: [ABD_DIS-Projekt](https://github.com/Nidocq/ABD_DIS-Projekt). This online platform isn't just any marketplace; it's a vibrant community where users can give new life to their preloved items. With a tech stack boasting React, TypeScript, and SQL, we've laid the groundwork for a seamless user experience from browsing to checkout.
 
 ## My Tech Stack
 
-I'm currently enamored with Python, particularly in the context of machine learning and AI. Exploring these fields has exposed me to the fascinating world of mathematical foundations. I also have considerable experience with TypeScript, which I find more enjoyable than plain JavaScript. At work, I primarily rely on React with TypeScript, but I'm comfortable with JavaScript, HTML, and CSS as well.
+I'm currently enamored with Python, particularly in the context of machine learning, AI, and Networking. Exploring these fields has exposed me to the fascinating world of mathematical foundations. I also have considerable experience with TypeScript, which I find more enjoyable than plain JavaScript. At work, I primarily rely on React with TypeScript, but I'm comfortable with JavaScript, HTML, and CSS as well.
 
 ## Open-Source Contributions
 
