@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a 23-year-old computer science student at ITU (MSc in Computer Science), with a keen interest in technology, sports (especially gym workouts), and finance. While pursuing my studies, I developed a fascination for machine learning and AI. I'm also contemplating becoming a part-time firefighter or personal trainer in the future, as I'm torn between these two passions. Currently, I'm employed at PeopleNet, a small IT company based in Copenhagen.
+I'm a 23-year-old computer science student at KU at 6<sup>th</sup>, with a keen interest in technology, sports (especially gym workouts), and finance. While pursuing my studies, I developed a fascination for machine learning and AI. I'm also contemplating becoming a part-time firefighter or personal trainer in the future, as I'm torn between these two passions. Currently, I'm employed at PeopleNet, a small IT company based in Copenhagen.
 
-## What I'm Working On
+## What I recently worked on
 
-My current focus lies in the culmination of my bachelor thesis, where I delve into the creation of an innovative Bluetooth mesh grid network with a particular emphasis on designing an adaptive network protocol. The aim is to facilitate the coordination of states across the network, accommodating the dynamic nature of nodes joining and leaving at will.
+I just wrapped up the culmination of my bachelor thesis, where I delve into creating an innovative Bluetooth mesh grid network with a particular emphasis on designing an adaptive network protocol. The aim is to facilitate the coordination of states across the network, accommodating the dynamic nature of nodes joining and leaving at will. The project will be published as a paper soon at the Concurrent Processes Architectures and Embedded Systems Hybrid Virtual Conference (COPA) Link to the conference [here](https://easychair.org/cfp/COPA2024)  
 
 Recently, I've had the pleasure of completing a project close to my heart: SysMentor, a budding startup aimed at revolutionizing the learning experience for Computer Systems students. Our vision? To cultivate a platform brimming with interactive exercises and visually captivating diagrams, designed to make the journey of learning both delightful and immersive.
 
