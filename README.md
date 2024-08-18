@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a 23-year-old computer science student at KU at 6<sup>th</sup>, with a keen interest in technology, sports (especially gym workouts), and finance. While pursuing my studies, I developed a fascination for machine learning and AI. I'm also contemplating becoming a part-time firefighter or personal trainer in the future, as I'm torn between these two passions. Currently, I'm employed at PeopleNet, a small IT company based in Copenhagen.
+I'm a 23-year-old computer science student at ITU (MSc in Computer Science), with a keen interest in technology, sports (especially gym workouts), and finance. While pursuing my studies, I developed a fascination for machine learning and AI. I'm also contemplating becoming a part-time firefighter or personal trainer in the future, as I'm torn between these two passions. Currently, I'm employed at PeopleNet, a small IT company based in Copenhagen.
 
 ## What I recently worked on
 
