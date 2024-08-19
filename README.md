@@ -22,7 +22,7 @@ I'm a 23-year-old computer science student at ITU (MSc in Computer Science), wit
 
 ## What I recently worked on
 
-I just wrapped up the culmination of my bachelor thesis, where I delve into creating an innovative Bluetooth mesh grid network with a particular emphasis on designing an adaptive network protocol. The aim is to facilitate the coordination of states across the network, accommodating the dynamic nature of nodes joining and leaving at will. The project will be published as a paper soon at the Concurrent Processes Architectures and Embedded Systems Hybrid Virtual Conference (COPA) Link to the conference [here](https://ieee-copa.org/)  
+I just wrapped up the culmination of my bachelor thesis, where I delve into creating an innovative Bluetooth mesh grid network with a particular emphasis on designing an adaptive network protocol. The aim is to facilitate the coordination of states across the network, accommodating the dynamic nature of nodes joining and leaving at will. The project will be published as a paper soon at the Concurrent Processes Architectures and Embedded Systems Hybrid Virtual Conference (COPA) Link to the conference [here.](https://ieee-copa.org/)  
 
 Recently, I've had the pleasure of completing a project close to my heart: SysMentor, a budding startup aimed at revolutionizing the learning experience for Computer Systems students. Our vision? To cultivate a platform brimming with interactive exercises and visually captivating diagrams, designed to make the journey of learning both delightful and immersive.
 
