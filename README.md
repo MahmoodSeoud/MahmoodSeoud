@@ -6,7 +6,7 @@ Considering becoming a **part-time firefighter** or **personal trainer**—becau
 ---
 
 ## Tech Skills  
-![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,react,html,css,dotnet,powershell,postgresql,azure,git)
+![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,react,html,css,dotnet,powershell,postgresql,azure,git,neovim)
 
 ---
 
