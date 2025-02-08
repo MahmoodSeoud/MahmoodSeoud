@@ -9,7 +9,7 @@ I'm also working on **SysMentor**, a startup focused on making learning fun for 
 Additionally, I've teamed up with [Nidocq](https://github.com/Nidocq) on **ABD_DIS-Projekt**, an online marketplace built with React, TypeScript, and SQL. Check it out [here](https://github.com/Nidocq/ABD_DIS-Projekt).
 
 ## My Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,js,ts,react,html,css,git,azure,postgresql,csharp,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,azure,postgresql,c,csharp,dotnet)](https://skillicons.dev)
 
 ## Open-Source Contributions
 I'm excited to start contributing to open-source, with plans to dive into RISC-V, an assembly programming language that intrigues me.
