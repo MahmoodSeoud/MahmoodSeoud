@@ -1,23 +1,32 @@
-### Hey Yo
-Hey, I'm Mahmood! I'm a 24-year-old computer science student at ITU (MSc in Computer Science) with a strong interest in machine learning, AI, tech, sports (especially gym workouts), and finance. I currently work at [PeopleNet](https://peoplenet.dk/), a  consultant company in Copenhagen, and I'm also considering becoming a part-time firefighter or personal trainer.
+# Hey Yo! 👋  
+I'm **Mahmood**, a 24-year-old MSc Computer Science student at ITU with a passion for **Machine Learning, AI, tech, sports (especially gym workouts), and finance**.  
+Currently working at [PeopleNet](https://peoplenet.dk/) as a consultant in Copenhagen.  
+Considering becoming a **part-time firefighter** or **personal trainer**—because why not?  
 
-## Recent Work
-I recently completed my bachelor's thesis on creating a **Bluetooth Mesh Grid Network** with an adaptive protocol. You can find the paper [here](https://easychair.org/publications/paper/Gv4N). 
+---
 
-I'm also working on **SysMentor**, a startup focused on making learning fun for Computer Systems students. Check out our landing page [here](https://abdsecondhand.site/LANDING/out/), and feel free to explore two interactive projects I co-created: [Cache-hit-miss](https://github.com/MahmoodSeoud/cache-hit-miss) and [VMAT](https://github.com/MahmoodSeoud/VMAT).
+## Tech Skills  
+![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,react,html,css,dotnet,powershell,postgresql,azure,git)
 
-Additionally, I've teamed up with [Nidocq](https://github.com/Nidocq) on **ABD_DIS-Projekt**, an online marketplace built with React, TypeScript, and SQL. Check it out [here](https://github.com/Nidocq/ABD_DIS-Projekt).
+---
 
-## My Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,react,html,css,dotnet,PostgreSQL,azure,git)](https://skillicons.dev)
+## My Paper  
+I recently wrote a paper on **Bluetooth Mesh Grid Networks**. You can check it out [here](https://easychair.org/publications/paper/Gv4N).  
 
-## Open-Source Contributions
-I'm excited to start contributing to open-source, with plans to dive into RISC-V, an assembly programming language that intrigues me.
+---
 
-## Contact Me
-Feel free to reach out via:
-- Email: [Mahmoodseoud@gmail.com](mailto:Mahmoodseoud@gmail.com)
-- LinkedIn: [Mahmood Mohammed Seoud](https://www.linkedin.com/in/mahmoodmohammedseoud)
+## Startup Experience  
+Tried launching a startup called **SysMentor** with [Nidocq](https://github.com/Nidocq), focused on making learning fun for Computer Systems students.  
+Here are some interactive simulations we built:  
+- [Cache-hit-miss](https://github.com/MahmoodSeoud/cache-hit-miss)  
+- [VMAT](https://github.com/MahmoodSeoud/VMAT)  
 
-## Let's Connect!
-If you're interested in my work, let's connect! Follow me on GitHub to stay updated.
+---
+
+## 📬 Contact Me  
+**Email:** [Mahmoodseoud@gmail.com](mailto:Mahmoodseoud@gmail.com)  
+**LinkedIn:** [Mahmood Mohammed Seoud](https://www.linkedin.com/in/mahmoodmohammedseoud)  
+
+---
+
+Always learning, always building!
