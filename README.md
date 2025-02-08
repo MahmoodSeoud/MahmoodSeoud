@@ -10,9 +10,8 @@ Additionally, I've teamed up with [Nidocq](https://github.com/Nidocq) on **ABD_D
 
 ## My Tech Stack
 
-I'm passionate about Python, especially for machine learning, AI, and Networking, and also enjoy working with TypeScript. I use React with TypeScript at work but I am comfortable with JavaScript, HTML, and CSS.
-
-[![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,HTML,css)](https://skillicons.dev)
+I'm passionate about Python, especially for machine learning, AI, and Networking, and also enjoy working with TypeScript. I mainly use React with TypeScript at work.
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,js,ts,react,html,css,git,azure,postgresql,csharp)](https://skillicons.dev)
 
 ## Open-Source Contributions
 I'm excited to start contributing to open-source, with plans to dive into RISC-V, an assembly programming language that intrigues me.
