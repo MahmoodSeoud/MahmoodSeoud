@@ -31,13 +31,11 @@ Always learning, always building!
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
     <img src="https://img.shields.io/badge/TypeScript-%232F72B5.svg?logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/DotNet-%23239120.svg?logo=.net&logoColor=white" />
   </p>
 </div>
 
