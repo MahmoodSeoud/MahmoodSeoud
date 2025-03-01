@@ -1,7 +1,7 @@
 # Hey Yo! 👋  
-I'm **Mahmood**, a 24-year-old MSc Computer Science student at ITU with a passion for **Machine Learning, AI, tech, sports (especially gym workouts), and finance**.  
+I'm **Mahmood**, a 24-year-old MSc Computer Science student at ITU with a passion for Machine Learning, AI, tech, sports (especially gym workouts), and finance**.  
 Currently working at [PeopleNet](https://peoplenet.dk/) as a consultant in Copenhagen.  
-Considering becoming a **part-time firefighter** or **personal trainer**—because why not?  
+Considering becoming a part-time firefighter —because why not?  
 
 ---
 
@@ -11,7 +11,7 @@ Considering becoming a **part-time firefighter** or **personal trainer**—becau
 ---
 
 ## My Paper  
-I recently wrote a paper on **Bluetooth Mesh Grid Networks**. You can check it out [here](https://easychair.org/publications/paper/Gv4N).  
+I recently wrote a paper on Bluetooth Mesh Grid Networks. You can check it out [here](https://easychair.org/publications/paper/Gv4N).  
 
 ---
 
